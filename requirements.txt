@@ -8,7 +8,7 @@ Jinja2==3.1.6
 joblib==1.6.0
 MarkupSafe==3.0.3
 narwhals==2.26.0
-numpy==2.5.3
+numpy==2.2.6
 packaging==26.3
 pluggy==1.6.0
 Pygments==2.21.0
